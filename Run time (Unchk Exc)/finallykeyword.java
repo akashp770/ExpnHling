@@ -1,4 +1,4 @@
-			// try and finally kkeyword
+			// try and finally keyword
 			class F{
 	public static void main (String args[])  
 	{
